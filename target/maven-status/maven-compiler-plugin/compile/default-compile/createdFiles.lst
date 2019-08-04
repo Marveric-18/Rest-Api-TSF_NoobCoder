@@ -1,0 +1,5 @@
+in\sizer\marv\tsf\rest\StudentApplication.class
+in\sizer\marv\tsf\rest\model\Student.class
+in\sizer\marv\tsf\rest\repository\StudentRepository.class
+in\sizer\marv\tsf\rest\controller\StudentController.class
+in\sizer\marv\tsf\rest\dao\StudentDAO.class
